@@ -1,1 +1,2 @@
 this file contains  all the functions used by my indx file.
+ lets change this also for version 2 . 
