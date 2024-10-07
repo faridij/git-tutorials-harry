@@ -1,3 +1,4 @@
 this is my 1st index file. let me add some more lines to cgheck 2nd versijon . actully i amde some mistakes in version 2cant see my chnaged userm=name. 
 
 noe do this
+ye hain ab mera 5wa commit in github to check pull request 
